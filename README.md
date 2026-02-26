@@ -77,14 +77,27 @@ SQL-based analysis of ride-sharing datasets.
 
 ### 🤖 Machine Learning Projects
 
-🔹 **Credit Risk Prediction ML Project**  
-Machine learning model to predict loan default risk.  
-👉 https://github.com/Anurag-Patil-Git/Credit-Risk-Prediction-ML-Project
+🔹 **Credit Risk Prediction ML Project**
+Machine Learning system for predicting loan default risk with end-to-end workflow including EDA, model training, and cloud deployment.
+
+**Project Structure**
+- 📊 Exploratory Data Analysis & Feature Engineering
+- 🧠 Multiple ML Models (Logistic Regression, Random Forest, XGBoost)
+- 📈 Model Evaluation & Risk Analysis
+- 🚀 Deployed Streamlit Prediction Dashboard
+
+**Links**
+- 🔗 Repository:  
+  https://github.com/Anurag-Patil-Git/Credit-Risk-Prediction-ML-Project
+- 🚀 Live App:  
+  https://credit-risk-prediction-ml-project.streamlit.app/
+
+---
 
 🔹 **Machine Learning Mini Projects**  
-Implementation of core ML algorithms and concepts.  
-👉 https://github.com/Anurag-Patil-Git/ML-Mini-Projects
+Implementation of core Machine Learning algorithms and concepts.
 
+👉 https://github.com/Anurag-Patil-Git/ML-Mini-Projects
 ---
 
 ## 💼 Experience
