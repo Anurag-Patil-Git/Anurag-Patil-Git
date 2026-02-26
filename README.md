@@ -125,5 +125,3 @@ To grow as a **Data Scientist / Data Analyst**, building impactful data-driven s
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
 
 ---
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Anurag-Patil-Git&icon=0&color=0)
