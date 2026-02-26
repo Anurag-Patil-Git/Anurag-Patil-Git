@@ -1,14 +1,129 @@
-# 💫 About Me:
-👋 Hi, I’m Anurag Patil<br><br>🎓 Computer Science Engineering Graduate from Jain College of Engineering and Research<br>📊 Aspiring Data Scientist | Data Analyst<br>📍 India<br><br>I am a data-driven professional with a strong foundation in Data Analytics and Machine Learning, currently enhancing my skills through a Data Science program at Innomatics Research Labs. I enjoy transforming raw data into meaningful insights that support business decision-making.<br><br>🔍 What I’m Currently Learning<br><br>Machine Learning (Supervised & Unsupervised)<br><br>Model evaluation & feature engineering<br><br>Real-world ML use cases<br><br>🧠 Technical Skills<br><br>Programming: Python, SQL<br><br>Data Analysis: Exploratory Data Analysis (EDA), Statistics<br><br>Visualization: Power BI<br><br>Libraries & Tools: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn<br><br>Databases: MySQL<br><br>📁 Projects<br><br>🌦 Telangana Weather Analysis – Interactive Power BI dashboard for climate trends<br><br>🎵 Music Store Data Analysis – SQL-based insights on sales, customers, and revenue<br><br>🏏 Test Cricket Batting Analysis – EDA to uncover performance patterns<br><br>🤖 Machine Learning Mini Projects – Hands-on implementation of ML algorithms<br><br>💼 Experience<br><br>3 months of professional experience as a Data Analyst, working with real datasets, data cleaning, analysis, and visualization to derive actionable insights.<br><br>🚀 Career Goal<br><br>To grow as a Data Scientist / Data Analyst, working on impactful, data-driven solutions and continuously learning cutting-edge technologies in analytics and AI.
+# 👋 Hi, I'm Anurag Patil
 
+🎓 Computer Science Engineering Graduate  
+📊 Aspiring Data Scientist | Data Analyst  
+📍 India  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anurag-patil-1009) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragpatil220@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+I am a data-driven professional passionate about transforming raw data into meaningful insights.  
+Currently enhancing my expertise in **Data Analytics and Machine Learning** through practical projects and real-world problem solving.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anurag-Patil-Git&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 📈 Strong foundation in **Data Analysis & Machine Learning**
+- 🧠 Currently learning advanced **ML modeling & feature engineering**
+- 📊 Experienced in building **dashboards, SQL analysis, and ML models**
+- 💼 Completed Data Science training at **Innomatics Research Labs**
+- 🔍 Interested in solving business problems using data
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming:**  
+Python, SQL  
+
+**Data Analysis:**  
+EDA, Data Cleaning, Statistics, Feature Engineering  
+
+**Visualization:**  
+Power BI, Matplotlib, Seaborn, Plotly  
+
+**Machine Learning:**  
+Scikit-learn, Model Evaluation, Supervised Learning  
+
+**Databases:**  
+MySQL, PostgreSQL  
+
+**Tools:**  
+Git, GitHub, Jupyter Notebook, Power BI  
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Data Analysis & Dashboards
+
+🔹 **Telangana Weather Analysis – Power BI Dashboard**  
+Interactive dashboard analyzing climate trends and weather patterns.  
+👉 https://github.com/Anurag-Patil-Git/Telangana-Weather-Analysis-Power-Bi-Porject
+
+🔹 **Test Cricket Analysis – Power BI Project**  
+Player performance analytics using interactive visualizations.  
+👉 https://github.com/Anurag-Patil-Git/Test-Cricket-analysis-Power-Bi-Project
+
+🔹 **Test Cricket Data Analysis (EDA Project)**  
+Exploratory data analysis on international cricket statistics.  
+👉 https://github.com/Anurag-Patil-Git/Test-Cricket-Data-Analysis-EDA-Project
+
+---
+
+### 🗄️ SQL Projects
+
+🔹 **Music Store Data Analysis**  
+Business insights using advanced SQL queries.  
+👉 https://github.com/Anurag-Patil-Git/Music-Store-SQL-Project
+
+🔹 **Hospital Database Management System**  
+Database design and analytical SQL queries.  
+👉 https://github.com/Anurag-Patil-Git/Hospital-Database-Management-SQL-Project
+
+🔹 **Ride Sharing SQL Analysis**  
+SQL-based analysis of ride-sharing datasets.  
+👉 https://github.com/Anurag-Patil-Git/Ride-Sharing-SQL-Project
+
+---
+
+### 🤖 Machine Learning Projects
+
+🔹 **Credit Risk Prediction ML Project**  
+Machine learning model to predict loan default risk.  
+👉 https://github.com/Anurag-Patil-Git/Credit-Risk-Prediction-ML-Project
+
+🔹 **Machine Learning Mini Projects**  
+Implementation of core ML algorithms and concepts.  
+👉 https://github.com/Anurag-Patil-Git/ML-Mini-Projects
+
+---
+
+## 💼 Experience
+
+**Data Analyst Trainee — Innomatics Research Labs**
+
+- Worked with real-world datasets
+- Performed data cleaning and analysis
+- Built dashboards and analytical reports
+- Generated actionable business insights
+
+---
+
+## 🎯 Career Goal
+
+To grow as a **Data Scientist / Data Analyst**, building impactful data-driven solutions while continuously learning modern analytics and AI technologies.
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-patil-1009)
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragpatil220@gmail.com)
+
+---
+
+## ⚙️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=Anurag-Patil-Git&icon=0&color=0)
