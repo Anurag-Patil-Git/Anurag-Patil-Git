@@ -41,9 +41,9 @@ Git, GitHub, Jupyter Notebook, Power BI
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-### 📊 Data Analysis & Dashboards
+## 📊 Data Analysis & Dashboards
 
 🔹 **Telangana Weather Analysis – Power BI Dashboard**  
 Interactive dashboard analyzing climate trends and weather patterns.  
@@ -59,7 +59,7 @@ Exploratory data analysis on international cricket statistics.
 
 ---
 
-### 🗄️ SQL Projects
+## 🗄️ SQL Projects
 
 🔹 **Music Store Data Analysis**  
 Business insights using advanced SQL queries.  
@@ -75,32 +75,58 @@ SQL-based analysis of ride-sharing datasets.
 
 ---
 
-### 🤖 Machine Learning Projects
+# 🤖 Machine Learning Projects
 
-🔹 **Credit Risk Prediction ML Project**
-Machine Learning system for predicting loan default risk with end-to-end workflow including EDA, model training, and cloud deployment.
+## 🔹 Credit Risk Prediction ML Project
 
-**Project Structure**
+Machine Learning system for predicting **loan default risk** with an end-to-end workflow including EDA, feature engineering, model training, and deployment.
+
+**Project Highlights**
 - 📊 Exploratory Data Analysis & Feature Engineering
-- 🧠 Multiple ML Models (Logistic Regression, Random Forest, XGBoost)
+- 🧠 ML Models (Logistic Regression, Random Forest, XGBoost)
 - 📈 Model Evaluation & Risk Analysis
-- 🚀 Deployed Streamlit Prediction Dashboard
+- 🚀 Interactive Streamlit Prediction Dashboard
 
 **Links**
-- 🔗 Repository:  
-  https://github.com/Anurag-Patil-Git/Credit-Risk-Prediction-ML-Project
-- 🚀 Live App:  
-  https://credit-risk-prediction-ml-project.streamlit.app/
+
+🔗 Repository  
+https://github.com/Anurag-Patil-Git/Credit-Risk-Prediction-ML-Project  
+
+🚀 Live App  
+https://credit-risk-prediction-ml-project.streamlit.app/
 
 ---
 
-🔹 **Machine Learning Mini Projects**  
-Implementation of core Machine Learning algorithms and concepts.
+## 🔹 Health Insurance Cost Prediction ML Project
+
+Machine Learning project that predicts **medical insurance charges** based on attributes such as age, BMI, smoking status, number of dependents, and region.
+
+**Project Highlights**
+
+- 📊 Data Cleaning and Exploratory Data Analysis (EDA)
+- 🧠 Machine Learning model for insurance cost prediction
+- 📈 Feature analysis to understand cost drivers
+- 🚀 Interactive Streamlit dashboard for real-time prediction
+
+**Links**
+
+🔗 Repository  
+https://github.com/Anurag-Patil-Git/health_insurance_prediction_ml_project  
+
+🚀 Live App  
+https://health-insurance-prediction-ml-project.streamlit.app/
+
+---
+
+## 🔹 Machine Learning Mini Projects
+
+Implementation of core **Machine Learning algorithms and concepts** for learning and experimentation.
 
 👉 https://github.com/Anurag-Patil-Git/ML-Mini-Projects
+
 ---
 
-## 💼 Experience
+# 💼 Experience
 
 **Data Analyst Trainee — Innomatics Research Labs**
 
@@ -111,13 +137,13 @@ Implementation of core Machine Learning algorithms and concepts.
 
 ---
 
-## 🎯 Career Goal
+# 🎯 Career Goal
 
 To grow as a **Data Scientist / Data Analyst**, building impactful data-driven solutions while continuously learning modern analytics and AI technologies.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-patil-1009)
 
@@ -125,7 +151,7 @@ To grow as a **Data Scientist / Data Analyst**, building impactful data-driven s
 
 ---
 
-## ⚙️ Tech Stack
+# ⚙️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -136,5 +162,3 @@ To grow as a **Data Scientist / Data Analyst**, building impactful data-driven s
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
-
----
